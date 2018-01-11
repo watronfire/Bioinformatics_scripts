@@ -8,13 +8,13 @@ from math import log
 ###########################################################################################
 
 # Path to folder with input files
-pathToFiles = "/home/nate/PycharmProjects/interhostVariants/res/inputs/"
+pathToFiles = ""
 
 # Path to virus map
-pathToVirus = "/home/nate/PycharmProjects/interhostVariants/res/ZikaVMap.csv"
+pathToVirus = ""
 
 # Path to output folder.
-pathToOutput = "/home/nate/PycharmProjects/interhostVariants/res/output/"
+pathToOutput = ""
 
 
 ## Generate Variant files.
